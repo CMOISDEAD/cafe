@@ -19,8 +19,9 @@ export const group_1 = {
     "Cada imagen trasciende lo visible, revelando realidades cotidianas de quienes enfrentan barreras sociales y culturales. La fotografía cuestiona estereotipos y muestra la capacidad transformadora de las mujeres, convirtiéndose en un puente entre la memoria y el cambio.",
     "Estas imágenes no solo documentan, reivindican. Las mujeres cafeteras no son meras guardianas de la tradición; son su esencia. Cada fotografía devuelve su protagonismo a quienes siempre fueron pilares invisibles de la caficultura.",
   ],
-  quote: "Para mí coger café es como una terapia, me encanta coger café...",
-  by: "Blanca Cecilia",
+  quote:
+    "Me fascina la finca, me gusta mucho la finca porque amo el campo, lo amo y el café. Yo amo el café, para mí eso es lo primordial.",
+  by: "Cecilia Marín",
 };
 
 export const group_2 = {
@@ -43,8 +44,9 @@ export const group_2 = {
     "Ellas no solo trabajan la tierra; la hacen suya. Desde la siembra hasta la cosecha, cada movimiento encierra una historia de fortaleza que desafía siglos de desigualdad.",
     "Hoy, las mujeres cafeteras no solo sostienen una industria; sostienen la identidad de un país. Con cada paso entre los cafetales, cultivan no solo café, sino también un legado de lucha y transformación que continúa escribiéndose con su voz al frente.",
   ],
-  quote: "Para mí coger café es como una terapia, me encanta coger café...",
-  by: "Blanca Cecilia",
+  quote:
+    "Sí, orgullosamente mujer por todo lo que implica esa palabra “mujer”. Mujer trabajadora, mujer madre, mujer esposa, mujer abuela, orgullosamente.",
+  by: "Gloria Elena Ospina",
 };
 
 export const group_3 = {
@@ -62,8 +64,9 @@ export const group_3 = {
     "Los espacios donde habitan las mujeres cafeteras son, a menudo, terrenos históricamente vinculados al trabajo masculino. Sin embargo, en su cotidiano labor, estas mujeres no solo habitan la tierra, sino que la moldean, convirtiéndola en una extensión de sí mismas. Las fincas y cafetales, tradicionalmente asociados a la figura del hombre, son ahora también su hogar y su campo de acción.",
     "Cada rincón de estos espacios refleja la fuerza femenina que, a lo largo del tiempo, ha sido esencial en la producción del café. En el susurro de estos paisajes, se escucha la huella de las mujeres que, con su dedicación y trabajo constante, han dado nueva vida a la tierra, transformándola y redefiniendo su rol en el ciclo del café.",
   ],
-  quote: "Para mí coger café es como una terapia, me encanta coger café...",
-  by: "Blanca Cecilia",
+  quote:
+    "Pero yo a los jóvenes les diría que amen el campo, porque es que el campo, fuera de que es vida, el campo genera cosas tan bonitas.",
+  by: "Luz marina",
 };
 
 export const group_4 = {
@@ -80,6 +83,7 @@ export const group_4 = {
     "las mujeres cafeteras enfrentaron violencia, dificultades económicas y la lucha por ser reconocidas en un entorno masculino. Algunas recibieron apoyo, mientras que otras lucharon solas. A pesar de las adversidades, el café y el campo les dieron fortaleza, convirtiéndolas en pilares de sus familias y líderes de sus fincas.",
     "Hoy, esas mujeres no solo se sienten dueñas de la tierra que cultivan, sino también de un legado que han sabido cuidar, proteger y enriquecer. Enamorarse del café fue más que una elección: fue un destino compartido con generaciones que antes que ellas cultivaron la misma tierra. Cada grano que cosechan es un testimonio de su conexión indiscutible con el campo, con la vida que se genera a través de su trabajo y esfuerzo. Son mujeres del campo, que han dado forma a una tradición que, sin ellas, no sería la misma. Así, su amor por la finca, por el café, es también un amor por su identidad, por su lucha y por la historia.",
   ],
-  quote: "Para mí coger café es como una terapia, me encanta coger café...",
-  by: "Blanca Cecilia",
+  quote:
+    ": Mucho. Ser mujer cafetera significa la mayor parte de mi vida, porque es el rol donde yo me muevo, donde yo estoy, todo es alrededor del café. Sí, vivimos pendiente de todo.",
+  by: "Margarita",
 };

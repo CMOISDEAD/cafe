@@ -10,7 +10,7 @@ export const Interview = ({ url }: { url: string }) => {
       />
       <ReactPlayer url={url} width="70%" height="70%" />
       <blockquote className="mt-4 font-serif text-center text-sm text-white md:text-xl italic">
-        &quot;Mujeres Caficultoras de Calarca.&quot;
+        &quot;Mujeres Caficultoras de Calarcá.&quot;
       </blockquote>
       <img
         src="/images/cuts/cafetera.png"
